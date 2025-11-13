@@ -1,5 +1,7 @@
 # Simple PHP Blog  
 
+![image](./assets/images/screenshot.png)
+
 ## Requirements  
 - **Laragon** (or similar stack like XAMPP/WAMP)  
 - **PHP 7.4+**  
